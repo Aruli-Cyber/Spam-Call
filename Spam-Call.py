@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # Coded by Aruli-Azmi
 """
-ngapai bosq? mau recode?
+ngapain bosq? mau recode?
 tinggal pake aja susah amat sih?!
 """
 
@@ -28,7 +28,7 @@ print("""%s
 ------------------------------------------------
 %sYoutube: https://www.youtube.com/channel/UCVi6_ZDLDz15R8AYVvnyq8g%s
 ------------------------------------------------
-%sWhatsapp: +6285540618027%s
+%sGithub: https://github.com/Aruli-Cyber%s
 ------------------------------------------------
 %sMASUKAN NOMOR DENGAN "62" (EX: 628XXXXXX)%s
 ------------------------------------------------
